@@ -2,7 +2,7 @@
   "name": "react-auth",
   "version": "1.0.0",
   "description": "authentication code with react",
-  "main": "index.js",
+  "main": "./src/App.js",
   "dependencies": {
     "aws-amplify": "^4.3.14",
     "@aws-amplify/ui-react": "^1.2.6",
